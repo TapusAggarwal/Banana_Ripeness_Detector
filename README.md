@@ -1,4 +1,4 @@
-# Banana Ripeness Detection 🍌
+# Fruit Maturity Assessment System
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abhayparashar31/brd/main/app.py)
 
 <img src="src/brd.gif" width="100%"/>
